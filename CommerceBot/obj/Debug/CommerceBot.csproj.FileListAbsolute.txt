@@ -1,0 +1,370 @@
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\DocumentDB.Spatial.Sql.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Bot Application.dll.config
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Bot Application.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Bot Application.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.Integration.WebApi.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\BotAuth.AADv2.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\BotAuth.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Chronic.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.SqlServer.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.Documents.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Azure.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.History.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Connector.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Edm.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.OData.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Services.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Identity.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Logging.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Newtonsoft.Json.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Net.Http.Formatting.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Spatial.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.WebHost.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.Integration.WebApi.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.SqlServer.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.Documents.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Azure.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.History.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.History.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Connector.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Edm.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.OData.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Services.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Identity.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Logging.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Newtonsoft.Json.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Net.Http.Formatting.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Spatial.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.WebHost.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\CommerceBot.csprojResolveAssemblyReference.cache
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\CommerceBot.csproj.CoreCompileInputs.cache
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\CommerceBot.csproj.CopyComplete
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\Bot Application.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\Bot Application.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\DocumentDB.Spatial.Sql.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Bot Application.dll.config
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Bot Application.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Bot Application.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Autofac.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Autofac.Integration.WebApi.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\BotAuth.AADv2.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\BotAuth.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Chronic.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\EntityFramework.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\EntityFramework.SqlServer.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Azure.Documents.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.Azure.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.History.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Connector.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Data.Edm.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Data.OData.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Data.Services.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Identity.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Logging.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Newtonsoft.Json.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Net.Http.Formatting.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Spatial.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Web.Http.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Web.Http.WebHost.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Autofac.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Autofac.Integration.WebApi.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\EntityFramework.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\EntityFramework.SqlServer.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Azure.Documents.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.Azure.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.History.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Builder.History.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Bot.Connector.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Data.Edm.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Data.OData.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Data.Services.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Identity.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Logging.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\Newtonsoft.Json.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Net.Http.Formatting.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Spatial.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Web.Http.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\System.Web.Http.WebHost.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\de\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\es\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\it\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\de\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\es\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\fr\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\it\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ja\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ko\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\ru\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hans\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\bin\zh-Hant\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\obj\Debug\CommerceBot.csprojResolveAssemblyReference.cache
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\obj\Debug\CommerceBot.csproj.CoreCompileInputs.cache
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\obj\Debug\CommerceBot.csproj.CopyComplete
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\obj\Debug\Bot Application.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src - updated\CommerceBot\obj\Debug\Bot Application.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\DocumentDB.Spatial.Sql.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Bot Application.dll.config
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Bot Application.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Bot Application.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Autofac.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Autofac.Integration.WebApi.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\BotAuth.AADv2.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\BotAuth.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Chronic.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\EntityFramework.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\EntityFramework.SqlServer.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Azure.Documents.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.Azure.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.History.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Connector.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Data.Edm.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Data.OData.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Data.Services.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Identity.Client.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Logging.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Newtonsoft.Json.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Net.Http.Formatting.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Spatial.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Web.Http.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Web.Http.WebHost.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Autofac.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Autofac.Integration.WebApi.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\EntityFramework.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\EntityFramework.SqlServer.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Azure.Documents.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.Azure.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.History.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.History.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Connector.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Data.Edm.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Data.OData.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Data.Services.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Identity.Client.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Logging.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Newtonsoft.Json.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Net.Http.Formatting.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Spatial.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Web.Http.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\System.Web.Http.WebHost.xml
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\de\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\es\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\it\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\de\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\es\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\fr\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\it\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ja\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ko\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\ru\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hans\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\zh-Hant\System.Spatial.resources.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\obj\Debug\CommerceBot.csprojResolveAssemblyReference.cache
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\obj\Debug\CommerceBot.csproj.CoreCompileInputs.cache
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\obj\Debug\CommerceBot.csproj.CopyComplete
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\obj\Debug\Bot Application.dll
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\obj\Debug\Bot Application.pdb
+D:\Github\AzureBotServices-scenarios-master\CSharp\Commerce\src-updated\CommerceBot\bin\Microsoft.Bot.Builder.Azure.pdb
